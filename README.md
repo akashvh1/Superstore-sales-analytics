@@ -24,7 +24,7 @@ Excel | MySQL | Power BI |
 - April is the peak sales month; January and June are the weakest
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Dashboard screenshot.jpeg)
 
 ## Author
 Akash V H | MBA Business Analytics | ISBR College Bangalore
