@@ -23,9 +23,6 @@ Excel | MySQL | Power BI |
 - Orders at 30% discount are loss-making — avg profit of −$4.51 per order
 - April is the peak sales month; January and June are the weakest
 
-## Dashboard Preview
-[Dashboard](Dashboard%20screenshot.jpeg)
-
 ## Author
 Akash V H | MBA Business Analytics | ISBR College Bangalore
 Data Analytics & BI Intern | Maincrafts Technology
